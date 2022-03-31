@@ -12,7 +12,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p className="header">
-          🚀 Vite + React + Typescript 🤘 & <br />
+          🚀 Vite + React + Javascript 🤘 & <br />
           Eslint 🔥+ Prettier
         </p>
 
@@ -24,7 +24,7 @@ function App() {
           <p> Don&apos;t forgot to install Eslint and Prettier in Your Vscode.</p>
 
           <p>
-            Mess up the code in <code>App.tsx </code> and save the file.
+            Mess up the code in <code>App.jsx </code> and save the file.
           </p>
           <p>
             <a
